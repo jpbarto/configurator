@@ -1,0 +1,7 @@
+[section-a]
+bill: 3
+
+# I am a comment
+
+[xmimd.logging]
+log_filename: bob.log
